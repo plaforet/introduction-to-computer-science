@@ -67,6 +67,7 @@ Students will be able to...
 * Point out that the shapes in part 2.1 are not necessarily listed from easiest to hardest, and that the scripts need not be written in the given order.
   * This will give them the tools they need to figure out the angles they need for any shape they would like to draw.
 * When students finish, have them turn in their project using whatever procedures you have set up.
+* Note: Students will use this lab activity again in Lab 2.1 to learn the `Repeat` block.
 
 ### Debrief
 
