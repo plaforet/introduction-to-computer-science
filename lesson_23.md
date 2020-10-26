@@ -12,7 +12,6 @@ Students will be able to...
 * [Do Now 2.3: Stairs](do_now_23.md).
 * [2.3 Slide Deck](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%202.3.pptx)
 * [Lab 2.3 Handout What Shape is That?](lab_23.md) ([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%202%20Word/Lab%202.3%20What%20Shape%20Is%20That.docx)) ([pdf](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%202%20PDF/Lab%202.3%20What%20Shape%20Is%20That.pdf)).
-* [Lab 2.3 Solution](https://www.tealsk12.org/intro-to-computer-science-sample-solutions/)
 * [Unit 2 Tips](unit_2_tips.md).
 * [Video on Conditionals](https://www.flocabulary.com/unit/coding-conditionals/)
 * Video Resource: [https://youtu.be/t3k3wOxO1xI](https://youtu.be/t3k3wOxO1xI)
